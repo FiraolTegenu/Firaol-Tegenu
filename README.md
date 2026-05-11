@@ -3,7 +3,7 @@
 I am a **Software Developer** and **Data Enthusiast** focused on building intelligent tools and solving complex mathematical problems. I love turning raw data into actionable insights and creating software that improves productivity.
 
  🚀 What I'm working on
-* **[Demand Forecasting Model]([https://github.com/FiraolTegenu/FUTURE_ML_01]):** Building an ML pipeline to predict business sales using XGBoost and Pandas.
+* **[[Demand Forecasting Model](https://github.com/FiraolTegenu/FUTURE_ML_01)]:** Building an ML pipeline to predict business sales using XGBoost and Pandas.
 * **AI-Driven Typing App:** Developing a custom web app that generates adaptive practice paragraphs based on user weaknesses.
 **website**(https://abemsarem.netlify.app/)
 ### 🛠 My Tech Stack
