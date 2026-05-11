@@ -10,12 +10,10 @@ I am a **Software Developer** and **Data Enthusiast** focused on building intell
 * **Languages:** Python (Primary), SQL, HTML/CSS, PHP.
 * **Data Science:** Pandas, NumPy, Scikit-Learn, Matplotlib
 * **Tools:** Git & GitHub, Jupyter Notebooks, VS Code.
-
-
 ---
 
 ### 📫 How to reach me:
-* **LinkedIn:** [Link to your profile]
-* **Email:** [Your Email]
+* **LinkedIn:** [[Link to your profile](https://www.linkedin.com/in/firaol-tegenu-26818135b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
+* **Email:** [firaoltegenu7@gmail.com]
 
 *"The best way to predict the future is to create it."*
