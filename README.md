@@ -13,7 +13,7 @@ I am a **Software Developer** and **Data Enthusiast** focused on building intell
 ---
 
 ### 📫 How to reach me:
-* **LinkedIn:** [[Link to your profile](https://www.linkedin.com/in/firaol-tegenu-26818135b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
+* **LinkedIn:** [[click here](https://www.linkedin.com/in/firaol-tegenu-26818135b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
 * **Email:** [firaoltegenu7@gmail.com]
 
 *"The best way to predict the future is to create it."*
